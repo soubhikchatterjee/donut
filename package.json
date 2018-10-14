@@ -1,0 +1,23 @@
+{
+    "name": "donut",
+    "displayName": "Donut Theme!",
+    "description": "A dark theme for developers and programmers",
+    "version": "0.0.1",
+    "publisher": "SoubhikChatterjee",
+    "repository": "https://github.com/soubhikchatterjee/donut",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Donut",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Donut-color-theme.json"
+            }
+        ]
+    }
+}
