@@ -2,7 +2,7 @@
     "name": "donut",
     "displayName": "Donut",
     "description": "A stunning dark theme for web developers and programmers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "SoubhikChatterjee",
     "homepage": "http://soubhik.chatterjee.pw/",
     "repository": {
@@ -10,7 +10,7 @@
         "url": "https://github.com/soubhikchatterjee/donut"
       },
     "engines": {
-        "vscode": "^1.28.0"
+        "vscode": "^1.19.0"
     },
     "categories": [
         "Themes"
