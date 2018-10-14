@@ -4,7 +4,10 @@
     "description": "A stunning dark theme for web developers and programmers",
     "version": "0.0.1",
     "publisher": "SoubhikChatterjee",
-    "repository": "https://github.com/soubhikchatterjee/donut",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/soubhikchatterjee/donut"
+      },
     "engines": {
         "vscode": "^1.28.0"
     },
