@@ -4,6 +4,7 @@
     "description": "A stunning dark theme for web developers and programmers",
     "version": "0.0.1",
     "publisher": "SoubhikChatterjee",
+    "homepage": "http://soubhik.chatterjee.pw/",
     "repository": {
         "type": "git",
         "url": "https://github.com/soubhikchatterjee/donut"
