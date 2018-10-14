@@ -27,7 +27,7 @@
       "name": "Variables",
       "scope": ["variable","string constant.other.placeholder"],
       "settings": {
-        "foreground": "#FDF5BF" // ok
+        "foreground": "#D97A46" // ok
       }
 	},
     {
@@ -57,14 +57,14 @@
       "settings": {
         "foreground": "#F0C674" // ok
       }
-    },
+	},
     {
       "name": "Operator, Misc",
       "scope": [
         "keyword.control",
         "constant.other.color",
-        "punctuation",
-        "meta.tag",
+		"meta.tag",
+		"punctuation",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
         "punctuation.definition.tag.html",
@@ -77,7 +77,7 @@
       "settings": {
         "foreground": "#E0FBFC"
       }
-    },
+	},
     {
       "name": "Tag",
       "scope": [
