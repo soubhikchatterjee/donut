@@ -11,6 +11,14 @@
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
+    "keywords": [
+      "donut",
+      "doughnut",
+      "donuts",
+      "theme",
+      "vscode"
+    ],
     "contributes": {
         "themes": [
             {
