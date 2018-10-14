@@ -18,14 +18,15 @@
 [![N|Solid](https://raw.githubusercontent.com/soubhikchatterjee/donut/master/screenshots/sass.png)](SASS)
 [![N|Solid](https://raw.githubusercontent.com/soubhikchatterjee/donut/master/screenshots/html.png)](HTML)
 
+---
 
 # Recommended Font
 [Operator Mono](https://www.typography.com/fonts/operator/styles/)
 or
 [FiraCode](https://github.com/tonsky/FiraCode)
 
----
-## Developer
+
+# Developer
 
 This theme is maintained by [Soubhik Chatterjee](http://soubhik.chatterjee.pw)
 
