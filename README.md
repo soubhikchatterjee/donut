@@ -2,7 +2,7 @@
 
 ## Donut for Visual Studio Code
 
-### Beautiful theme for web developers and programmers
+### A stunning dark theme for web developers and programmers
 
 1. Extensions ‣ Search for 'Donut' ‣ Install
 2. Command Palette ‣ Donut: select theme
