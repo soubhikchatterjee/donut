@@ -7,9 +7,12 @@
 1. Extensions ‣ Search for 'Donut' ‣ Install
 2. Command Palette ‣ Donut: select theme
 
-# Screenshot
+# Screenshots
 
-[![N|Solid](https://i.imgur.com/6WeZ1ht.png)](http://soubhik.chatterjee.pw)
+[![N|Solid](https://raw.githubusercontent.com/soubhikchatterjee/donut/master/screenshots/typescript.png)](TypeScript)
+[![N|Solid](https://raw.githubusercontent.com/soubhikchatterjee/donut/master/screenshots/java.png)](Java)
+[![N|Solid](https://raw.githubusercontent.com/soubhikchatterjee/donut/master/screenshots/sass.png)](SASS)
+[![N|Solid](https://raw.githubusercontent.com/soubhikchatterjee/donut/master/screenshots/html.png)](HTML)
 
 ## Developer
 
